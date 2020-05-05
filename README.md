@@ -24,17 +24,14 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+simple photo gallery project that I made with react and tailwind. I use the API from PIXABAY
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -45,70 +42,51 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+node.js
+
+npm
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+Instalation Steps
 
 ```
-Give the example
+fork my repo
+
+git clone 'project'
 ```
 
-And repeat
+then
 
 ```
-until finished
-```
+cd 'project'
 
-End with an example of getting some data out of the system or using it for a little demo.
+npm install
 
-## 🔧 Running the tests <a name = "tests"></a>
+npm update
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+npm start
 ```
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
+Add your Pixabay API key to .env - https://pixabay.com/api/docs/
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [Tailwind](https://expressjs.com/) - css Framework
+- [ReactJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+- [@wahyunf354](https://github.com/wahyunf354) - Idea & Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
 - Inspiration
 - References
+  - [@bradtraversy](https://github.com/bradtraversy)
